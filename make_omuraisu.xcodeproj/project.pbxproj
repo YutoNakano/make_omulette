@@ -12,6 +12,7 @@
 		011C25D021D34AF500430E85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 011C25CE21D34AF500430E85 /* Main.storyboard */; };
 		011C25D221D34AF600430E85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 011C25D121D34AF600430E85 /* Assets.xcassets */; };
 		011C25D521D34AF600430E85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 011C25D321D34AF600430E85 /* LaunchScreen.storyboard */; };
+		011C25E121D35F8300430E85 /* TimeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011C25E021D35F8300430E85 /* TimeManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		011C25D121D34AF600430E85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		011C25D421D34AF600430E85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		011C25D621D34AF600430E85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		011C25E021D35F8300430E85 /* TimeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				011C25CA21D34AF500430E85 /* AppDelegate.swift */,
 				011C25CC21D34AF500430E85 /* ViewController.swift */,
 				011C25CE21D34AF500430E85 /* Main.storyboard */,
+				011C25E021D35F8300430E85 /* TimeManager.swift */,
 				011C25D121D34AF600430E85 /* Assets.xcassets */,
 				011C25D321D34AF600430E85 /* LaunchScreen.storyboard */,
 				011C25D621D34AF600430E85 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				011C25CD21D34AF500430E85 /* ViewController.swift in Sources */,
 				011C25CB21D34AF500430E85 /* AppDelegate.swift in Sources */,
+				011C25E121D35F8300430E85 /* TimeManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
