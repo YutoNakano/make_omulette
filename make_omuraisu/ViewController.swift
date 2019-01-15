@@ -81,12 +81,12 @@ class ViewController: UIViewController {
         if count >= 400{
             imageView.image = UIImage(named: "IMG_2383")
             changeLabel.text = "おめでとう!\nオムライスが\n出来上がったよ！"
-            secondLabel.text = "美味しそうだね-"
+            secondLabel.text = " "
             view.backgroundColor = UIColor.green
             changeLabel.font = UIFont.boldSystemFont(ofSize:30)
-            secondLabel.font = UIFont.boldSystemFont(ofSize: 60)
             remaining.text = ""
             second.text = ""
+            
             }
         
         
